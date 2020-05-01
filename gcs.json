@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carbide-acre-275604",
+  "private_key_id": "c1f69f1e99a01cf2349def3ae922744d5fe7b7d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp4AOxRIUUPF0z\nXQGnVekNsZuLCwCBmYyPPQxeI+W3rShT/8IfQh442QW6EREgzNtRKZ+WheBALcW0\nLrEOuz56IcoUxOjkLaGsTWSH9Z19rSSjpNUxfSvlauysAyojgWMFcJ/eatBtBgtd\ndnKwphVqhxwvWovLpwuMSHtQ63zRErckzvOcFmYRvhi9k5EMCdQbIhxN40J6iOlO\nQ0mjPgVNyVWpwiNmtgc5wE1zh81jl0ajdFoR1YhHd5zIXdyBEKQbUrxUs+o4w2VY\nnSttfplV6Is98eihfxV/mT0KnzuIWZoSxefl59jyOLKy66QgZDUUdpvU2Zq1ru0T\n4vAKx7JzAgMBAAECggEAKIWAO/vdRstza/oml9T9Z7/TG6K/Nyr6hXyJg7dKZ7sN\nYKQkmTI7ZVIXdJ/3lvxm4IBuSgibSpPgki+FGr99ksKWosepyiw8YY6AiZIERGNV\n1xdNp6V1IB+WXx3OInQNu9F2wSZ3m1oSwfOsPgkQGL4r8fvGVwj8zzTG/bF+r5xE\nXEUi/XCBQcgpzRC/XWU6sI2QKiCSgnMUsQwfDF5hAzoykCQ7D6jEaUxhIa43Tntx\n4A70CCAVL7QGAO+xeklgHBVqp/jc3N3LQLzmcPX9+1WBups/nUj7HZUgGRHqMO3W\nLXq5HUCld8gaGO/I1VJ3wT+hVEq6pl3pHJX2MHeC+QKBgQDkp8tLsQZlYrhfjEAP\nH2Xsco2wYtJlQJkun3CgcSd+12xBWPCQAJViEshXY/W+5Z3QFPCTe2QjWKkHpFMM\nA8Hkfnp6Yx/tXayrlQgIkUibd6IWQ7vdRI+2k9Bgk6xuXbXT9b30FG+peIpijC7C\nv7TvnkyuvUSkN7115qkyUUqQJwKBgQC+MK3s4gPbYBXDED0MrDFGMtGObT1tnBk9\nNflSeo85Qf2tryVEqrHtrcJ83SkjZG69SoaoB4wlnKF0yIHsgixvYYo/mHhIatbs\nnjHMeyly6nNfzUbbyHr3YpollBz7Eel/34rRDZ773mXivsVd4TZBGAv7Z9qswEFa\ntSy55utu1QKBgQDKGPiZpRS3JcM6SFcSRrkqfLF5Nk8pySfbSncciAbVmIgJVhgB\n31IphdpnS2WYXZDXqrpcUFJY33M+2uHAG84TLCsK43QDs6j7WtTn5alcKCguL53r\nWz7+q7Ugt0VPoyoj9u72vd1X17/QjICEBzdgFvVF+Omjj9S4UbA4VhtmPwKBgFwg\ntH9k1D12A9Sjjw8OcifxAfWeEP2BefBertE3MR2pS7rQdpsWnG3nl6hocT8FrWbg\nLO5ECa1GfCdX4SexvtiNRSydLNbXehjQYIsOtftGenDTvRlFudsP1l+RqaAtAxDA\nNjwh/vs+tdfqVSyupVtOzK8RlanMz1ujG3FJ3I2pAoGAQ68jt4tD5RbOwcgyGF6S\nMD4hm8qdcfFtfOcEtlxxMqmQISYVc0F1oH/fgjUIzdQIzYbKe+MTEMtnjFJt2L5n\nCaSIWCMauRNu6oCpzgOlFQg4WfGIo3hkbZqdY5fICh9uV5yjyutI+K2xYokBI5Lr\nivvj+afs/yx7wtseK9SOMmQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "attention-agent@carbide-acre-275604.iam.gserviceaccount.com",
+  "client_id": "106959410415783356758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/attention-agent%40carbide-acre-275604.iam.gserviceaccount.com"
+}

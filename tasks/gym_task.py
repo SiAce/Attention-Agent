@@ -65,7 +65,10 @@ class GymTask(tasks.abc_task.BaseTask):
         step_cnt = 0
         while not done:
             action = solution.get_output(inputs=ob, update_filter=not evaluate)
+            print("***************************************************************************************************************************************************")
+            print(f"action = {action}")
             action = self._process_action(action)
+            print(f"processed_action = {action}")
             ob, r, done, _ = self.step(action, evaluate)
             ob = self._process_observation(ob)
 

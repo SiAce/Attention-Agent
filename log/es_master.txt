@@ -15388,3 +15388,1624 @@
 	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
 	debug_error_string = "{"created":"@1588310249.589259000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
 >
+2020-05-01 01:28:03,138 4177 [INFO] Workers: ['127.0.0.1:20000', '127.0.0.1:20001', '127.0.0.1:20002', '127.0.0.1:20003']
+2020-05-01 01:28:04,151 4177 [INFO] Bucket: es_experiments, JSON: gcs.json
+2020-05-01 01:28:05,061 4177 [INFO] Master initialized, algorithm=<algorithms.cma.CMA object at 0x7fea905cd6d8>
+2020-05-01 01:28:05,061 4177 [INFO] Start to train.
+2020-05-01 01:28:20,618 4200 [INFO] Workers: ['127.0.0.1:20000', '127.0.0.1:20001', '127.0.0.1:20002', '127.0.0.1:20003']
+2020-05-01 01:28:21,629 4200 [INFO] Bucket: es_experiments, JSON: gcs.json
+2020-05-01 01:28:22,427 4200 [INFO] Master initialized, algorithm=<algorithms.cma.CMA object at 0x7f8720669160>
+2020-05-01 01:28:22,427 4200 [INFO] Start to train.
+2020-05-01 01:28:22,502 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.497989000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,504 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.503172000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,504 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.503170000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,504 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.499807000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,505 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.505073000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,509 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.508849000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,509 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.509187000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,509 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.507430000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,510 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.510476000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,514 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.514537000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,515 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.514103000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,515 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.513781000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,516 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.516325000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,520 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.520661000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,521 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.521552000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,521 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.520334000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,524 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.524733000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,528 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.527814000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,529 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.528903000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,529 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.525774000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,530 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.529962000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,537 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.537094000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,538 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.537094000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,539 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.532013000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,539 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.538603000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,544 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.543754000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,546 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.545757000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,546 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.539382000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,548 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.547971000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,552 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.550056000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,554 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.554122000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,557 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.546460000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,558 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.554503000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,558 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.558251000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,563 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.563039000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,563 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.554122000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,564 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.563040000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,565 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.565355000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,570 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.570596000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,571 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.564811000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,572 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.570587000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,573 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.572496000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,584 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.583872000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,584 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.571019000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,584 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.577828000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,585 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.583873000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,591 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.591248000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,592 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.581507000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,592 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.587766000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,592 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.591944000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,598 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.597920000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,599 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.588389000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,600 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.597311000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,600 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.599141000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,607 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.607493000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,608 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.597310000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,608 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.607435000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,608 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.607071000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,613 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.613354000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,614 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.605274000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,614 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.614133000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,614 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.613798000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,622 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.621897000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,623 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.612824000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,623 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.622728000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,623 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.622716000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,631 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.630776000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,631 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.621916000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,631 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.630776000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,631 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.630781000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,639 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.636943000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,640 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.630776000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,640 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.636953000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,641 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.636966000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,651 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.651421000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,652 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.636944000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,652 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.651421000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,653 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.651421000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,658 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.658055000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,658 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.651421000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,659 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.658921000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,659 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.658886000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,663 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.663574000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,664 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.658094000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,664 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.664105000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,665 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.664087000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,679 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.678761000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,679 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.663574000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,679 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.678742000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,680 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.678742000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,685 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.684929000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,685 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.678742000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,685 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.684924000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,685 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.684521000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,695 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.695591000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,696 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.684887000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,696 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.695560000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,696 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.690979000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,701 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.701530000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,702 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.691648000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,727 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.709383000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,727 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.709345000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,728 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.716542000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,728 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.716561000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,728 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.725375000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,728 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.725008000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,729 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.727334000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,729 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.726340000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,731 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.731316000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,734 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.733728000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,735 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.734829000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,735 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.733727000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,741 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.740790000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,743 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.743212000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,745 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.745162000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,745 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.742449000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,749 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.749468000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,750 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.750510000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,752 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.752666000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,753 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.749790000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,757 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.756715000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,761 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.757895000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,762 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.762259000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,763 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.756719000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,769 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.768905000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,770 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.769710000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,770 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.770021000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,770 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.770028000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,774 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.774200000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,775 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.774663000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,785 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.784911000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,786 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.775480000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,790 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.789876000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,790 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.790326000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,791 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.791437000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,791 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.790348000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,797 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.796539000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,798 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.796512000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,799 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.799399000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,800 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.797445000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,808 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.808672000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,809 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.808651000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,809 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.808324000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,809 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.805792000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,816 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.815784000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,817 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.815415000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,817 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.815414000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,818 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.815414000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,828 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.828192000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,828 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.828175000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,829 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.828050000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,829 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.827433000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,834 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.834009000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,834 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.833474000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,834 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.833201000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,834 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.832886000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,843 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.843170000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,844 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.843522000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,848 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.843074000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,852 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.842732000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,854 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.853834000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,855 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.854111000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,855 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.854131000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,856 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.853800000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,865 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.864665000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,865 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.864674000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,866 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.864399000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,866 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.863917000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,873 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.872986000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,873 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.873232000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,874 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.872690000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,875 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.873231000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,887 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.887189000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,888 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.887189000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,888 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.887189000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,888 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.887189000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,896 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.895873000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,897 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.895118000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,897 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.895843000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,898 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.895120000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,906 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.905914000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,906 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.905933000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,906 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.905914000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,907 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.905915000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,919 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.918754000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,919 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.918763000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,920 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.913414000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,926 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.918758000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,930 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.930350000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,931 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.926198000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,932 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.925499000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,933 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.926230000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,941 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.940946000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,941 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.935976000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,943 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.935477000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,944 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.935977000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,947 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.947674000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,948 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.944568000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,948 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.943686000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,948 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.944612000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,977 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.961491000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,979 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.962167000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,982 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.966883000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,983 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.966844000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,984 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.975217000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,985 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.977540000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,985 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.982269000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,986 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.982532000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,987 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.987696000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,988 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.987969000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,989 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.989058000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,989 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.989332000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,995 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.995259000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:22,997 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310902.996607000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,002 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.001858000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,009 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.001990000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,010 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.002258000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,010 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.010140000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,013 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.013356000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,014 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.013099000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,014 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.013665000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,016 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.016363000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,026 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.026288000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,027 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.022953000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,028 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.026286000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,028 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.026295000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,032 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.032809000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,033 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.031088000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,033 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.032346000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,034 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.033211000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,049 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.048707000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,049 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.048708000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,050 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.048704000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,051 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.048709000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,056 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.055852000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,056 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.055324000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,056 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.055324000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,056 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.055863000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,065 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.065184000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,065 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.064375000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,069 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.065193000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,069 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.065197000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,076 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.076793000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,080 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.069138000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,081 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.080070000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,081 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.077216000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,092 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.092020000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,093 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.080528000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,094 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.091962000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,094 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.087876000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,099 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.099019000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,100 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.091963000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,100 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.099019000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,101 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.097069000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,111 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.110855000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,112 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.097708000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,113 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.110845000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,113 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.110375000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,119 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.118618000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,120 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.110863000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,122 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.122047000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,123 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.118617000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,130 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.130288000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,130 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.118875000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,133 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.130160000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,133 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.129545000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,139 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.139642000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,140 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.129230000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,140 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.139648000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,140 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.139406000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,149 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.149418000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,152 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.139642000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,152 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.149613000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,156 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.149419000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,161 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.160975000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,161 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.149418000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,162 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.160976000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,162 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.160975000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,169 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.169294000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,172 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.160975000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,172 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.171645000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,173 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.171365000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,180 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.180027000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,182 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.169280000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,183 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.181915000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,183 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.180027000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,197 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.197297000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,201 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.178267000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,201 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.197287000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,202 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.196897000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,207 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.207443000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,208 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.196897000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,208 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.207459000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,209 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.208207000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,218 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.218115000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,218 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.208212000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,218 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.217861000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,219 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.217862000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,224 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.224630000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,225 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.217860000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,259 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.235353000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,260 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.246785000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,261 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.242941000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,262 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.246746000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,263 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.253550000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,263 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.254573000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,264 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.254090000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,265 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.255138000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,270 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.266718000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,271 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.270680000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,271 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.266385000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,272 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.270682000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,276 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.276503000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,277 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.277772000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,278 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.276503000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,283 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.277773000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,286 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.285973000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,293 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.292894000","description":"Error received from peer ipv4:127.0.0.1:20001","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,293 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.293244000","description":"Error received from peer ipv4:127.0.0.1:20002","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,294 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.293082000","description":"Error received from peer ipv4:127.0.0.1:20003","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 01:28:23,295 4200 [ERROR] <_Rendezvous of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: could not broadcast input array from shape (3) into shape (1)"
+	debug_error_string = "{"created":"@1588310903.293372000","description":"Error received from peer ipv4:127.0.0.1:20000","file":"src/core/lib/surface/call.cc","file_line":1041,"grpc_message":"Exception calling application: could not broadcast input array from shape (3) into shape (1)","grpc_status":2}"
+>
+2020-05-01 02:49:02,838 4493 [INFO] Workers: ['127.0.0.1:20000', '127.0.0.1:20001', '127.0.0.1:20002', '127.0.0.1:20003']
+2020-05-01 02:49:03,850 4493 [INFO] Bucket: es_experiments, JSON: gcs.json
+2020-05-01 02:49:04,729 4493 [INFO] Master initialized, algorithm=<algorithms.cma.CMA object at 0x7fca60c856d8>
+2020-05-01 02:49:04,729 4493 [INFO] Start to train.
+2020-05-01 02:49:45,037 4517 [INFO] Workers: ['127.0.0.1:20000', '127.0.0.1:20001', '127.0.0.1:20002', '127.0.0.1:20003']
+2020-05-01 02:49:46,049 4517 [INFO] Bucket: es_experiments, JSON: gcs.json
+2020-05-01 02:49:46,849 4517 [INFO] Master initialized, algorithm=<algorithms.cma.CMA object at 0x7fc770b22160>
+2020-05-01 02:49:46,849 4517 [INFO] Start to train.

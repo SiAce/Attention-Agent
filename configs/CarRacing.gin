@@ -19,9 +19,9 @@ utility.get_es_worker.es_algorithm = @cma.CMAWorker
 
 
 # Solution configurations
-torch_solutions.VisionTaskSolution.image_size = 96
+torch_solutions.VisionTaskSolution.image_size = 64
 torch_solutions.VisionTaskSolution.query_dim = 4
-torch_solutions.VisionTaskSolution.output_dim = 3
+torch_solutions.VisionTaskSolution.output_dim = 16
 torch_solutions.VisionTaskSolution.output_activation = "tanh"
 torch_solutions.VisionTaskSolution.num_hiddens = [16,]
 torch_solutions.VisionTaskSolution.l2_coefficient = 0

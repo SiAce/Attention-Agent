@@ -163,8 +163,7 @@ class CarRacingTask(GymTask):
         self._action_low = np.array([-1., 0., 0.])
 
     def _process_action(self, action):
-        return (action * (self._action_high - self._action_low) / 2. +
-                (self._action_high + self._action_low) / 2.)
+        return np.argmax(action)
 
     def reset(self):
         ob = super(CarRacingTask, self).reset()
@@ -192,7 +191,7 @@ class CarRacingTask(GymTask):
         if 'logger' in kwargs:
             self._logger = kwargs['logger']
 
-        env_string = 'CarRacing-v0'
+        env_string = 'procgen:procgen-coinrun-v0'
         if 'modification' in kwargs:
             if kwargs['modification'] == 'color':
                 env_string = 'CarRacingColor-v0'

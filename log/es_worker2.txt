@@ -6085,3 +6085,16 @@
 2020-05-01 02:49:45,038 4515 [INFO] env_string: CarRacing-v0
 2020-05-01 02:49:45,062 4515 [INFO] CMAWorker initialized.
 2020-05-01 02:49:45,068 4515 [INFO] Listening to port 20002 ...
+2020-05-01 20:44:04,364 776 [INFO] env_string: CarRacing-v0
+2020-05-01 20:44:04,416 776 [INFO] CMAWorker initialized.
+2020-05-01 20:44:04,423 776 [INFO] Listening to port 20002 ...
+2020-05-01 20:58:33,176 867 [INFO] env_string: CarRacing-v0
+2020-05-01 20:58:33,201 867 [INFO] CMAWorker initialized.
+2020-05-01 20:58:33,207 867 [INFO] Listening to port 20002 ...
+2020-05-01 21:00:42,956 904 [INFO] env_string: procgen:procgen-coinrun-v0
+2020-05-01 21:00:44,031 904 [INFO] CMAWorker initialized.
+2020-05-01 21:00:44,037 904 [INFO] Listening to port 20002 ...
+2020-05-01 21:00:46,613 904 [INFO] Roll-out time=0.09s, steps=40, reward=0.00
+2020-05-01 21:00:49,227 904 [INFO] Roll-out time=2.61s, steps=1000, reward=0.00
+2020-05-01 21:00:51,951 904 [INFO] Roll-out time=2.72s, steps=1000, reward=0.00
+2020-05-01 21:00:54,572 904 [INFO] Roll-out time=2.62s, steps=1000, reward=0.00

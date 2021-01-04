@@ -1,5 +1,8 @@
 # Neuroevolution of Self-Interpretable Agents
 
+## Forked Repository
+This repository is forked from [brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop/tree/master/AttentionAgent), we've changed the game from car racing to coinrun.
+
 ![attentionagent](https://storage.googleapis.com/quickdraw-models/sketchRNN/attention/assets/card/attentionagent.gif)  
 Our agent receives visual input as a stream of 96x96px RGB images (left). Each image frame is passed through a self-attention bottleneck module, responsible for selecting K=10 patches (highlighted in white, middle). Features from these K patches (such as location) are then routed to a decision-making controller (right) that will produce the agent’s next action. The parameters of the self-attention module and the controller are trained together using neuroevolution.
 
